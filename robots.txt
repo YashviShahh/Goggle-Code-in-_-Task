@@ -1,0 +1,3 @@
+User-agent: Googlebot
+Disallow: /~mine/private/
+Dissallow:/~mine/personal/

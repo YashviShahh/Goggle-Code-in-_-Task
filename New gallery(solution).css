@@ -1,0 +1,93 @@
+#header {
+    padding-top: 74px;
+}
+
+
+/*span {
+    padding-right: 8px;
+}*/
+
+.navbar {
+    position: fixed;
+}
+
+i {
+    padding-right: 16px;
+}   
+
+.jumbotron {
+    color: #2c3e50;
+    background-color: #ecf0f1;
+}
+
+
+.card-title {
+    font-size: 23px;
+}
+
+.card-text {
+    font-size: 15px;
+    line-height: 18px;     
+}
+
+.btn {
+    font-size: 15px;
+}
+
+.margin-left{
+    margin-left: 15px !important;
+}
+
+
+table {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
+.first {
+    padding-left: 145px;
+    padding-bottom: 20px;
+}
+
+.second {
+    padding-left: 65px;
+    padding-right: 65px;
+}
+
+.third {
+    padding-right: 135px;
+}
+
+.fouth {
+    padding-left: 145px;
+}
+
+.fifth {
+    padding-left: 65px;
+    padding-right: 65px;
+}
+
+.sixth {
+    padding-right: 135px;
+}
+
+table { 
+  width: 100%; 
+  border-collapse: collapse;
+
+
+}
+
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td, th { 
+  padding: 6px; 
+
+  text-align: left; 
+}
